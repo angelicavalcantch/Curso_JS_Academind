@@ -1,2 +1,11 @@
-# Curso_JS_Academind
-2020 Guide (beginner + advanced) By Maximilian Schwarzmüller on Udemy
+
+*Ongoing course.* <br>
+
+
+
+
+
+
+
+
+https://www.udemy.com/course/javascript-the-complete-guide-2020-beginner-advanced/
