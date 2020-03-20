@@ -1,6 +1,5 @@
 
-*Ongoing course.* <br>
-March 2020
+*Ongoing course.* <br> March 2020
 
 
 
